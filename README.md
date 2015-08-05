@@ -2,6 +2,8 @@
 
 This is sample project for running a sinatra application on Docker.
 
+test push
+
 ## Usage
 
 Create Image
